@@ -11,9 +11,8 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "doctrine/couchdb-odm": "@dev",
-        "doctrine/couchdb": "@dev",
-        "symfony/doctrine-bridge": "~2.0",
+        "doctrine/couchdb-odm": "1.0.0ALPHA2",
+        "symfony/doctrine-bridge": ">=2.0,<2.5",
         "symfony/framework-bundle": ">=2.0,<2.5"
     },
     "require-dev": {
